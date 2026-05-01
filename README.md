@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Oualid El Bakkal 👋
+<h1>Hi, I'm Oualid El Bakkal 👋</h1>
 
 ```
  ██████╗ ██╗     ██╗██████╗ ██████╗ ██╗  ██╗
