@@ -79,7 +79,3 @@
 ---
 
 <div align="center">
-
-### 💡 Learning every day.
-
-</div>
