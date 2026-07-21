@@ -5,7 +5,7 @@
 ### 🔐 Networking & Cybersecurity Student
 ### 🇲🇦 Student at OFPPT | Future Security Professional
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=01110111+01100101+01101100 01100011+01101111+01101101+01100101" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=01110111+01100101+01101100 01100011+01101111+01101101+01100101;" alt="Typing SVG" />
 
 </div>
 
