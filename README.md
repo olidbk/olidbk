@@ -44,9 +44,9 @@
 <br>
 
 - [Email](mailto:oualid.el.bakkal@proton.me)
-- 
+
 - [LinkedIn](https://www.linkedin.com/in/oualid-el-bakkal-b1ab29428/)
-- 
+
 - [GitHub](https://github.com/olidbk)
 
 </details>
