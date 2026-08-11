@@ -1,6 +1,6 @@
 <div align="center">
 
-# WELCOME
+<img src="https://readme-typing-svg.herokuapp.com/?lines=01110111+01100101+01101100+01100011+01101111+01101101+01100101&center=true&width=800&height=50&color=00FF41&vCenter=true&size=24">
 
 </div>
 
